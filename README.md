@@ -1,18 +1,3 @@
-
-<img src="/TPMWeb/public/image/banner.jpeg" width="601" height="256" alt="微信小程序"/><br/>
-
-<p align="center">
-  <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/vue-2.6.10-brightgreen.svg" alt="vue">
-  </a>
-  <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/element--ui-2.15.6-brightgreen.svg" alt="element-ui">
-  </a>
-  <a href="https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-  </a>
-</p>
-
 # 测试需求管理平台
 背景源于多年前的团队的一个需求，这里重新利用最新开箱即用的前后端框架重新实现出来，并配有系列开发分享文章，宗旨是为做想测试开发和或自己想实现个小工具平台，而没有练手实战项目的同学提供一份的学习参考资料，希望对需要的人有些许帮助。
 
